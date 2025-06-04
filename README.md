@@ -6,13 +6,13 @@ Calibrum is not just a utility library, it's a carefully structured pattern that
 Whether you're building enterprise-grade features or maintaining existing orgs, Calibrum gives you a solid baseline for writing better Apex.
 
 Key Features
-✅ Reusable Patterns – Implements consistent, generalized patterns that can be easily extended.
+Reusable Patterns – Implements consistent, generalized patterns that can be easily extended.
 
-🧩 Plug-and-Play – Works as a modular layer that you can build on top of or integrate into existing projects.
+Plug-and-Play – Works as a modular layer that you can build on top of or integrate into existing projects.
 
-📦 Ready for Scale – Promotes separation of concerns and single responsibility, supporting complex applications.
+Ready for Scale – Promotes separation of concerns and single responsibility, supporting complex applications.
 
-📐 Opinionated Structure – Offers guidance and structure without being restrictive.
+Opinionated Structure – Offers guidance and structure without being restrictive.
 
 Use Cases
 Creating services, filters, adapters, and processors using a consistent interface
